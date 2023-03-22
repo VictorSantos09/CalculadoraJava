@@ -10,7 +10,7 @@ public class App {
             double numberTwo = 0;
 
             try {
-                System.out.println("Digite o primeiro número");
+                System.out.println("Digite o primeiro numéro");
                 numberOne = scanner.nextInt();
                 System.out.println("Digite o segundo número");
                 numberTwo = scanner.nextInt();
